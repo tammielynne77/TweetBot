@@ -10,10 +10,7 @@ access_token = access_token
 access_token_secret = access_token_secret
 
 # Quotes to Tweet
-quote_list = [
-   “Quote 1”,
-   “Quote 2",
-   “Quote 3”]
+quote_list = [“Quote 1”, “Quote 2", “Quote 3”]
    
 # Create function for tweeting
 def QuoteItUp(quote_num):
